@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![CodeWars][codewars][codewars-url]]
+![CodeWars][codewars][codewars-url]
 
 
 [codewars]: https://www.codewars.com/users/AllenJoeG/badges/large
