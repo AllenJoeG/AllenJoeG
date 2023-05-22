@@ -1,10 +1,8 @@
-### Hi there 👋
-
-![CodeWars][codewars][codewars-url]
+![CodeWars][codewars]
 
 
 [codewars]: https://www.codewars.com/users/AllenJoeG/badges/large
-[codewars-url]: https://www.codewars.com/users/AllenJoeG
+
 <!--
 **AllenJoeG/AllenJoeG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
