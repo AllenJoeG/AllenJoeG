@@ -1,7 +1,9 @@
+<!--
 ![CodeWars][codewars]
 
 
 [codewars]: https://www.codewars.com/users/AllenJoeG/badges/large
+-->
 
 <!--
 **AllenJoeG/AllenJoeG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
