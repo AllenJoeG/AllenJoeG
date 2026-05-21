@@ -4,9 +4,13 @@ Software engineer focused on full-stack enterprise systems, internal tooling, CI
 
 All of my production engineering work lives behind the private enterprise veil: private repositories, internal systems, proprietary workflows, and business-critical support tooling. The featured public repositories here largely reflect my computer science education and early portfolio work from late 2021 and early 2022. My day-to-day engineering practice has since grown into private enterprise software, platform support, automation, and agent-assisted development. Eventually I'll load newer personal projects here!
 
+I am an avid Front-End Masters in-person attendee. I have completed five courses during live multi-day recording sessions, and a dozen more covering interest areas from Python AI fundamentals to Enterprise Pipeline development. I generally keep these private, as they reflect the IP of the instructor.
+
 ## Current Work
 
 I currently work across product support engineering, service integration, internal tooling, release pipelines, and developer enablement. My work often sits at the intersection of application behavior, service contracts, tests, CI/CD pipelines, feature flags, operational ownership, and cross-team communication.
+
+My current hot focus is on building contextual webs for improving agentic harness workflows, and persistent, self-grooming memories as local SQLite caches.
 
 Recent areas of focus include:
 
